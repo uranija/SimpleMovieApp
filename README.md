@@ -1,1 +1,3 @@
 ## SimpleMovieApp
+### Project overview
+
