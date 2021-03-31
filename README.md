@@ -10,5 +10,9 @@ The app allows users to discover the most popular movies playing. App fetches da
 - App allows users to mark a movie as a favorite in the details view by tapping a button (star).
 
 
+### Technologies used:
+App uses Android Architecture Components:**Room, LiveData, ViewModel and Lifecycle**
+
+
 
 
