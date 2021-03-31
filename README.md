@@ -11,7 +11,7 @@ The app allows users to discover the most popular movies playing. App fetches da
 
 
 ### Technologies used:
-App uses Android Architecture Components:**Room, LiveData, ViewModel and Lifecycle**
+App uses Android Architecture Components: **Room, LiveData, ViewModel and Lifecycle**
 
 
 
