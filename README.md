@@ -12,9 +12,9 @@ The app allows users to discover the most popular movies playing. App fetches da
 
 
 ### Technologies used:
-App uses Android Architecture Components: **Room, LiveData, ViewModel and Lifecycle**
-App uses **Retrofit** library to fetch data from internet
-App uses **Glide** library ro upload images
+- App uses Android Architecture Components: **Room, LiveData, ViewModel and Lifecycle**
+- App uses **Retrofit** library to fetch data from internet
+- App uses **Glide** library ro upload images
 
 
 
