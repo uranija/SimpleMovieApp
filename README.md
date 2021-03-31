@@ -8,6 +8,7 @@ The app allows users to discover the most popular movies playing. App fetches da
 - App allows users to view and play trailers in youtube.
 - App allows users to read reviews of a selected movie.
 - App allows users to mark a movie as a favorite in the details view by tapping a button (star).
+- App creates a database using **Room** to store the names and ids of the user's favorite movies, the rest of the information needed to display their favorites collection while offline.
 
 
 ### Technologies used:
